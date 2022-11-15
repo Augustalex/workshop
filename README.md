@@ -29,8 +29,6 @@ Examples
 Hint
 This kata lures a lot of people to implement features in the order of the numbers. But do not forget that it’s sometimes easier to start with a general case and add exceptions later. ([source](https://kata-log.rocks/roman-numerals-kata))
 
-Another explanation along with example solutions in Java can be found [here](https://github.com/TDD-Katas/roman-numerals#tdd-approaches)
-
 This is a very common Coding Kata for praciting TDD, mob programming etc. It's a very easy one. If you want to practice more afterwards on harder exercises, and perhaps form you own Coding Dojo, you can check out [codingdojo.org](https://codingdojo.org/).
 
 # About this project
