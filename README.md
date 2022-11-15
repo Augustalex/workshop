@@ -39,19 +39,17 @@ It's managed with NPM.
 
 It uses Jest to run tests, and the jest-babel plugin to enable modern Import syntax for JavaScript modules.
 
-# Getting started
+# Setup
 
 1. Have Node installed (either with an [installer](https://nodejs.org/en/download/), or via a [package manager](https://nodejs.org/en/download/package-manager))
 2. Run `npm install` in the root of this project to install all dependencies.
 3. Use `npm test` to run all tests.
 
-## Files
+# Getting started
 
 In the file `toRomanNumerals.spec.js` you will find the test cases. There is only one simple test added there right now. It fails!
 
 In the file `toRomanNumerals.js` is where you have the implementation. Try to make the current test pass, the simplest & silliest way you can. Perhaps by returning "I"?
-
-## Working towards a solution
 
 Then write another test that fails, make that pass the simplest way possible. And so on.
 
